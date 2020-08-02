@@ -12,7 +12,7 @@ cd front && npm i
 
 cd back && npm i
 
-## Configuration base de donnée dans mysql : 
+## Configuration base de donnée dans mysql : 
 
 DROP DATABASE pronoffice IF EXISTS;
 
